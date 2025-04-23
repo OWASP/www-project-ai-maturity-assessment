@@ -1,1 +1,9 @@
 ## Education and Awareness
+| Maturity Level | Stream A - Training and Awareness                                                                 | Stream B - Organization and Culture                                                                 |
+|----------------|---------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
+| **Level 1**    | Offer staff access to resources around the topics of secure development and deployment.          | Identify a "Security Champion" within each development team.                                        |
+|                | Provide security awareness training for all personnel involved in software development.          |                                                                                                      |
+| **Level 2**    | Educate all personnel in the software lifecycle with technology and role-specific guidance.       | Develop a secure software center of excellence promoting thought leadership among developers and architects. |
+|                | Offer technology and role-specific guidance, including security nuances of each language/platform.|                                                                                                      |
+| **Level 3**    | Develop in-house training programs facilitated by developers across different teams.             | Build a secure software community including all organization people involved in software security.   |
+|                | Standardized in-house guidance around the organization's secure software development standards.  |                                                                                                      |
