@@ -4,7 +4,9 @@ Secure Build practices form the foundation for trustworthy AI by ensuring that r
 
 #### Objectives
 
-- Establish secure integration of AI/LLM components by promoting responsible sourcing, secure coding, resilient design, and defensible supply chain choices.
+1) **Integration of Security in development** Establish secure integration of AI/LLM components by promoting responsible sourcing, secure coding, resilient design, and defensible supply chain choices.
+2) **Automated scans during build** Integrate automated security scans and robustness checks into AI development pipelines.
+3) **Responsible AI principles during build** Prevent downstream risks by enforcing reproducibility, ethical safeguards, and supply chain integrity during the build phase.
 
 #### Streams
 
