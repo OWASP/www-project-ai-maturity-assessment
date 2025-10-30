@@ -1,0 +1,28 @@
+audience:
+  - builder
+community:
+  - name: project-aima
+    platform: slack
+    url: https://owasp.slack.com/archives/C089K6KFZMG
+    description: The OWASP AI Maturity Assessment (AIMA) project aims to provide organizations with a comprehensive framework to navigate the complexities
+      of artificial intelligence systems responsibly.
+leaders:
+  - name: Matteo Meucci
+    email: matteo.meucci@owasp.org
+    github: MatOwasp
+  - name: Philippe Schrettenbrunner
+    email: philippe.schrettenbrunner@owasp.org
+    github: phischde
+level: 4
+name: OWASP AI Maturity Assessment
+pitch: OWASP AI Maturity Assessment
+repositories:
+  - name: www-project-ai-maturity-assessment
+    url: https://github.com/OWASP/www-project-ai-maturity-assessment
+    description: OWASP Foundation web repository
+tags:
+  - AIMA
+  - custom-tag-1
+  - custom-tag-2
+type: documentation
+website: https://owasp.org/www-project-ai-maturity-assessment
