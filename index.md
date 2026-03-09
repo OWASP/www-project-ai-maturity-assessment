@@ -2,7 +2,7 @@
 layout: col-sidebar
 title: OWASP AI Maturity Assessment
 tags: AIMA
-level: 4
+level: 2
 type: documentation
 pitch: OWASP AI Maturity Assessment
 ---
