@@ -1,0 +1,28 @@
+name: Validate Excel toolkits
+
+on:
+  pull_request:
+    paths:
+      - "**/*.xlsx"
+      - "scripts/validate_toolkits.py"
+      - ".github/workflows/validate_toolkits.yml"
+  push:
+    branches:
+      - main
+    paths:
+      - "**/*.xlsx"
+      - "scripts/validate_toolkits.py"
+      - ".github/workflows/validate_toolkits.yml"
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+
+      - name: Validate answer scales and scoring formulas
+        run: python scripts/validate_toolkits.py
